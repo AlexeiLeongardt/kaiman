@@ -133,3 +133,5 @@ accept incoming change - оставить новую версию
 accept both changes - оставить оба варианта
 
 compare changes - сравнить варианты
+
+## <p align="center">Начало третьего задания</p> 
